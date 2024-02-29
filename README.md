@@ -2,6 +2,8 @@
 
 Welcome to my Simple TodoApp built with React! This project was created with the main goal of mastering the fundamentals of React. Despite the challenges, I found the process immensely rewarding and enjoyable.
 
+You can access the live preview of the app [here](https://simple-todo-app-react-j8s1oimgz-ozioma45s-projects.vercel.app/).
+
 ## Features
 
 - **Add Tasks:** Easily add new tasks to your to-do list.
@@ -10,34 +12,30 @@ Welcome to my Simple TodoApp built with React! This project was created with the
 
 ## Technologies Used
 
-- React: This project is developed using React, a powerful JavaScript library for building user interfaces.
-- HTML/CSS: Basic HTML and CSS are used for structuring and styling the application.
-- JavaScript: The functionality of the application is implemented using JavaScript.
+- **React:** This project is developed using React, a powerful JavaScript library for building user interfaces.
+- **HTML/CSS:** Basic HTML and CSS are used for structuring and styling the application.
+- **JavaScript:** The functionality of the application is implemented using JavaScript.
 
 ## Getting Started
 
 To get started with the Simple TodoApp-React on your local machine, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-
    ```
    git clone https://github.com/Ozioma45/Simple_TodoApp-React-
    ```
 
 2. Navigate to the project directory:
-
    ```
    cd Simple_TodoApp-React-
    ```
 
 3. Install the necessary dependencies by running:
-
    ```
    npm install
    ```
 
 4. Start the development server:
-
    ```
    npm run dev
    ```
